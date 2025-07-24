@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.DS_Store
+.env
+venv/
+*.h5
+# add cxr_images folder in gitignore
+cxr_images/
